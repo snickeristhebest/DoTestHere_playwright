@@ -1,0 +1,18 @@
+{
+  "name": "dotesthere_playwright",
+  "version": "1.0.0",
+  "description": "learning playwright on the website dotesthere.com",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.1",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
